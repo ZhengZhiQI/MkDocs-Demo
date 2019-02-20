@@ -1,1 +1,6 @@
 site_name: My Docs
+theme: 
+    name: 'material'
+nav: 
+    - 'test1': 'index.md'
+    - 'test2': 'test.md'
